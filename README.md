@@ -1,9 +1,11 @@
 # Hi, I'm Kiran Sonne 👋  
 ### Senior iOS Developer | Swift • SwiftUI • UIKit • Clean Architecture
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kiran-Sonne-iOSDev&hide_border=true" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Senior+iOS+Developer;5%2B+Years+of+iOS+Experience;Swift+%7C+SwiftUI+%7C+UIKit;Clean+Architecture+%7C+MVVM+%7C+VIPER;Building+Secure+and+Scalable+iOS+Apps" />
 </p>
+
+
 
 🚀 iOS Developer with **5+ years of professional experience** in designing, developing, and maintaining high-quality iOS applications.  
 I specialize in building **secure, scalable, and user-centric mobile apps** using modern Apple frameworks and clean architecture principles.
